@@ -1,6 +1,7 @@
 name: p4dsdl
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - graphviz
   - imageio=2.6
